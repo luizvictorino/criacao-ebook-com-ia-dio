@@ -4,6 +4,10 @@
 
 Bem-vindo ao repositório "Dominando o Git"! Este projeto é um guia completo e descomplicado sobre como utilizar o Git, a ferramenta essencial de controle de versão para desenvolvedores. Aqui você encontrará uma abordagem passo a passo, desde a configuração inicial até os comandos avançados, sempre com exemplos práticos e explicações claras.
 
+Ebook gerado por IA e diagramado por humano.
+Conteúdo gerado com fins didáticos, não foi realiada validação cuidadosa e pode conter erros gerados por IA
+
+
 ## **Índice**
 
 - [Descrição](#descrição)
